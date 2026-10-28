@@ -1,9 +1,11 @@
-### Hi there, welcome to my GitHub 👋
+### Hi, I'm Ronny 👋
 
-I'm Ronny Paredes, I'm a 3rd Year Mechatronics engineering student at the University of Waterloo with passion for coding. 
+I'm a Software Engineer II at Microsoft building backend services and cloud infrastructure for Azure PlayFab. I work on distributed systems, developer tools, and production reliability at ~100K requests per second.
 
-- 🔭 I’m currently working on a multi-platform online game
-- 🤓 I’m currently learning Go Lang
-- 😎 Hobbies: Cooking, Soccer, Photography, and coding 
-- 📫 How to reach me: https://www.linkedin.com/in/rpparedes/
-- ⚡ Fun fact: I can count up to 10 in 7 different languages
+- 🔧 My toolkit: C#/.NET, Go, Python, Azure, AWS, and Kubernetes
+- 🤖 Exploring AI agents for developer workflows and incident investigation
+- 🎓 University of Waterloo graduate in Mechatronics Engineering, Software Engineering Option
+- 🏊 Outside of work: triathlons, cooking, and traveling
+- 🌍 Fun fact: I've been to 32 countries
+
+[LinkedIn](https://www.linkedin.com/in/rpparedes/) · [Website](https://rpparede.github.io)
